@@ -1,0 +1,30 @@
+--- !ruby/object:Hangman
+secret_word:
+- B
+- R
+- I
+- S
+- K
+- L
+- Y
+wrong_guess: 9
+max_guesses: 10
+wrong_letters:
+- Q
+- D
+- C
+- F
+- O
+- E
+- W
+- P
+- A
+output:
+- _
+- _
+- _
+- S
+- _
+- L
+- _
+input: SAVE
