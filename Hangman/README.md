@@ -14,7 +14,7 @@ ruby -v
 To get started with the app, download the files and run the app by typing
 
 ```
-$ ruby game.rb
+$ ruby hangman.rb
 ```
 
 And enjoy playing :D
