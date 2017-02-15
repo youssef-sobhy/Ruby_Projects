@@ -1,7 +1,7 @@
 ## TicTacToe
 This is a two-people small console game where player 1 is X and player 2 is O.
 
-It is also a part of [TheOdinProject](http://www.theodinproject.com/home)'s [Ruby Programming](http://www.theodinproject.com/courses/ruby-programming) course.
+It is also a part of TheOdinProject's [Ruby Programming](http://www.theodinproject.com/courses/ruby-programming) course.
 
 ## Getting started
 
