@@ -94,4 +94,5 @@ class Hangman
 	end
 end
 
-Hangman.new.start
+new_game = Hangman.new
+new_game.start
